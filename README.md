@@ -1,14 +1,14 @@
 # Getting Started with Voltalarm
 
-This project is a technical assessment from [Volta Medical](https://www.volta-medical.com/). It consist of creating an ElectronJS app in Typescript with ReactJS. We want to build an alarm clock that handles an alarm functionnality. It should persist data with the help of Sqlite (sqlite3 library). It uses React context for simple handling of state management as I think props drilling in ReactJS can quickly get dirty.
+This project is a technical assessment from [Volta Medical](https://www.volta-medical.com/). It consist of creating an ElectronJS app in Typescript with ReactJS. We want to build an alarm clock that handles alarm functionnality. It should persist data with the help of Sqlite (sqlite3 library). It uses React context for simple handling of state management as I think props drilling in ReactJS can quickly get dirty.
 
 ## How to
 
-Git clone this project, the cd into it. Install the dependencies :
+Git clone this project then cd into it. Install the dependencies :
 
 ### `npm install`
 
-Runs the app in the development mode.\
+Run the app in the development mode.\
 ### `npm run electron:dev`
 
 The page will reload if you make edits.\
