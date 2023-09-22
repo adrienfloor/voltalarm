@@ -24,8 +24,8 @@ I have used Tailwind CSS and DaisyUI library (black theme) to quickly get up and
 
 ## Some resources I have used to bootstrap this project
 
-[Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-[I took a lood at this boilerplate](https://github.com/yhirose/react-typescript-electron-sample-with-create-react-app-and-electron-builder#react-typescript-electron-sample-with-create-react-app-and-electron-builder).
-[https://www.npmjs.com/package/sqlite3](https://www.npmjs.com/package/sqlite3)
-[Tailwind CSS](https://tailwindcss.com/)
+[Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).<br>
+[I took a lood at this boilerplate](https://github.com/yhirose/react-typescript-electron-sample-with-create-react-app-and-electron-builder#react-typescript-electron-sample-with-create-react-app-and-electron-builder).<br>
+[Node Sqlite3](https://www.npmjs.com/package/sqlite3).<br>
+[Tailwind CSS](https://tailwindcss.com/).<br>
 [DaisyUI](https://daisyui.com/)
